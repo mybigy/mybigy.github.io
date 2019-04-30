@@ -2,7 +2,7 @@
 layout: post
 title:  "Motivation"
 categories: [ mybigy, motivation ]
-image: assets/images/1.jpg
+image: assets/images/motivation.jpg
 featured: true
 ---
 If you are like me you get "great" ideas all the time. Sometimes they are big ideas, like how to clean up trash from the oceans and sometimes they are less ambitious like how to organize and simplify my life, or to do the laundry, today! 
