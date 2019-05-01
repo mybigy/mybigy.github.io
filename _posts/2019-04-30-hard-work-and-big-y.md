@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hard work and a Big Y makes dreams come true"
+title:  "Hard work and a Big Y make dreams come true"
 author: rex
 categories: [ motivation, story, mybigy ]
 image: assets/images/bball.png
