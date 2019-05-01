@@ -4,6 +4,7 @@ title:  "Motivation"
 categories: [ mybigy, motivation ]
 image: assets/images/motivation.jpg
 featured: true
+author: rex
 ---
 If you are like me you get "great" ideas all the time. Sometimes they are big ideas, like how to clean up trash from the oceans and sometimes they are less ambitious like how to organize and simplify my life, or to do the laundry, today! 
 Also, if you are like me, you get frustrated because you sometimes lack the motivation to bring those good ideas to completion. I found an extremely useful formula to help us understand what motivates us and why we act or don't act. Here is the Motivation Equation and a brief description of each factor.
