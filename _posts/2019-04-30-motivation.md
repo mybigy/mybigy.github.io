@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Motivation"
+title:  "Motivation - Why you do what you do"
 categories: [ mybigy, motivation ]
 image: assets/images/motivation.jpg
 featured: true
